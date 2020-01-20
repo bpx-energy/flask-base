@@ -8,7 +8,7 @@
 A Flask application template with the boilerplate code already done for you.
 
 
-**Documentation available at https://github.com/bpx-energy/flask-base/edit/master/README.md.**
+**Documentation available at https://github.com/bpx-energy/flask-base.**
 
 ## What's included?
 
